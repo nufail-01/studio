@@ -76,7 +76,7 @@ This project is actively being improved with better animations, layout refinemen
 
 ## 🤝 Connect with Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
 
 ---
 
