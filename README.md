@@ -9,7 +9,7 @@ During development, I faced styling and maintainability issues, which I solved b
 
 ## 🌐 Live Demo
 
-[![Website Preview](assets/images/studio.png)](https://your-live-link-here)
+[![Website Preview](assets/images/alvy.png)](https://nufail-01.github.io/studio/)
 
 ---
 
