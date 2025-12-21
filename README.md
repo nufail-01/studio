@@ -64,7 +64,7 @@ I switched to a **CSS preprocessor (SCSS)**, which helped me:
 
 ## 📂 Source Code
 
-🔗 [GitHub Repository](https://github.com/nufail-sha/studio)
+🔗 [GitHub Repository](https://github.com/nufail-01/studio)
 
 ---
 
