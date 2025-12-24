@@ -79,6 +79,5 @@ This project is actively being improved with better animations, layout refinemen
 🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
 
 ---
----
 
 Made with ❤️ and self-learning
